@@ -1,0 +1,312 @@
+.nav{
+    display: flex;
+    margin-left: 40%;
+    margin-top: -35px;
+}
+a{
+    text-decoration: none;
+    padding-left: 70px;
+}
+a:hover{
+    background-color: black;
+    color: white;
+}
+img{
+    margin-left: 350px;
+}
+#abc{
+    margin-left: 1130px;
+    position: relative;
+    top: -15px;
+}
+.hello{
+    margin-top: 65px;
+    margin-left: 34%;
+}
+h1{
+    position: relative;
+    top: -350px;
+    left: 350px;
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+p{
+    position: relative;
+    left: 350px;
+    top: -345px;
+    font-size: 18px;
+}
+input{
+    position: relative;
+    top: -440px;
+    left: 350px;
+    padding: 10px;
+}
+#sheraz{
+    width: 250px;
+    position: relative;
+    top: -380px;
+}
+#fatima{
+    position: relative;
+    top: -220px;
+}
+.def{
+    color: orange;
+    margin-left: 600px;
+    margin-top: -380px;
+    font-size: -1;
+}
+.naseema{
+    margin-left: 600px;
+}
+.mobile{
+    margin-left: 610px;
+    font-size: 18px;
+}
+.realme{
+    position: relative;
+    top: -330px;
+    left: 600px;
+    width: 200px;
+}
+.abull{
+    color: brown;
+    margin-top: -180px;
+    margin-left: 900px;
+}
+.copy{
+    margin-top: 370px;
+    margin-left: 370px;
+}
+#charger{
+    position: relative;
+    top: -250px;
+}
+#button{
+    margin-top: -235px;
+    margin-left: 310px;
+}
+.org{
+    margin-top: 355px;
+    margin-left: -100px;
+}
+#aijz{
+    position: relative;
+    left: 500px;
+    top: -550px;
+}
+.promotion{
+    margin-left: 760px;
+    margin-top: -540px;
+}
+.bag{
+    margin-top: 360px;
+    margin-left: 395px;
+}
+#abdus{
+    position: relative;
+    left: 970px;
+    top: -570px;
+}
+.huzai{
+    margin-left: 1298px;
+    margin-top: -560px;
+}
+.tp{
+    margin-left: 865px;
+    margin-top: 360px;
+}
+.table{
+    color: orange;
+    position: relative;
+    left: 840px;
+    top: -250px;
+}
+.micro{
+    margin-top: 120px;
+    margin-left: 290px;
+}
+ul{
+    list-style-type: none;
+}
+.awais{
+    position: relative;
+    top: -290px;
+    left: 250px;
+    font-size: 20px;
+}
+li{
+    color: rgb(116, 100, 100);
+}
+.dive{
+    width: 400px;
+    position: relative;
+    left: 110px;
+    top: -695px;
+}
+.sami{
+    position: relative;
+    left: 610px;
+    top: -690px;
+}
+h3{
+    position: relative;
+    left: 645px;
+    top: -690px;
+}
+.qura{
+    width: 400px;
+    position: relative;
+    left: 450px;
+    top: -1075px;
+}
+.ion{
+    position: relative;
+    left: 980px;
+    top: -1070px;
+}
+.live{
+    position: relative;
+    left: 1020px;
+    top: -1070px;
+}
+.hp{
+    width: 300px;
+    position: relative;
+    left: 980px;
+    top: -1420px;
+}
+.orasoft{
+    position: relative;
+    left: 1400px;
+    top: -1385px;
+}
+.king{
+    position: relative;
+    left: 1440px;
+    top: -1385px;
+}
+#talib{
+    width: 600px;
+    position: relative;
+    left: 800px;
+    top: -1200px;
+}
+.not{
+    color: orange;
+    position: relative;
+    left: 290px;
+    top: -1770px;
+}
+.html{
+    position: relative;
+    left: 290px;
+    top: -1780px;
+}
+.possible{
+    position: relative;
+    left: 290px;
+    top: -1780px;
+}
+#nehal{
+    width: 200px;
+    position: relative;
+    top: -1780px;
+    margin-left: 280px;
+}
+.source{
+    color: orange;
+    position: relative;
+    left: 1100px;
+    top: -1650px;
+}
+.nokia{
+    position: relative;
+    left: 1000px;
+    top: -1680px;
+}
+#shamim{
+    width: 350px;
+    position: relative;
+    top: -1620px;
+    margin-left: 290px;
+}
+.maaz{
+    position: relative;
+    top: -1620px;
+    margin-left: 290px;
+}
+.nahida{
+    position: relative;
+    top: -1620px;
+    margin-left: -60px;
+}
+.nahim{
+    color: orange;
+    position: relative;
+    top: -1620px;
+    margin-left: -60px;
+}
+.qadeer{
+    width: 320px;
+    position: relative;
+    top: -2020px;
+    margin-left: 850px;
+}
+.aqib{
+    position: relative;
+    top: -2020px;
+    margin-left: 850px;
+}
+.nahid{
+    position: relative;
+    top: -2020px;
+    margin-left: 500px;
+}
+.nahm{
+    color: orange;
+    position: relative;
+    top: -2020px;
+    margin-left: 500px;
+}
+.shahzad{
+    width: 350px;
+    position: relative;
+    top: -2420px;
+    margin-left: 1450px;
+}
+.rasheeda{
+    position: relative;
+    top: -2420px;
+    margin-left: 1450px;
+}
+.nad{
+    position: relative;
+    top: -2420px;
+    margin-left: 1100px;
+}
+.nm{
+    color: orange;
+    position: relative;
+    top: -2420px;
+    margin-left: 1100px;
+}
+.php{
+    position: relative;
+    top: -2250px;
+    margin-left: 950px;
+    color: orange;
+}
+.mango{
+    position: relative;
+    top: -2270px;
+    margin-left: 435px;
+}
+#sanobar{
+    position: relative;
+    top: -2270px;
+    margin-left: 435px;
+    width: 480px;
+    padding: 20px;
+}
